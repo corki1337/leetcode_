@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/corki1337/leetcode_/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/corki1337/leetcode_/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/corki1337/leetcode_/tree/master/0125-valid-palindrome) |
+| [0657-robot-return-to-origin](https://github.com/corki1337/leetcode_/tree/master/0657-robot-return-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/corki1337/leetcode_/tree/master/0605-can-place-flowers) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/corki1337/leetcode_/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
