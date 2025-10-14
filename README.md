@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/corki1337/leetcode_/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/corki1337/leetcode_/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/corki1337/leetcode_/tree/master/0898-transpose-matrix) |
+| [2350-find-closest-number-to-zero](https://github.com/corki1337/leetcode_/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
