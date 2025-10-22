@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/corki1337/leetcode_/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/corki1337/leetcode_/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/corki1337/leetcode_/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/corki1337/leetcode_/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/corki1337/leetcode_/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/corki1337/leetcode_/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/corki1337/leetcode_/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/corki1337/leetcode_/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/corki1337/leetcode_/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/corki1337/leetcode_/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 ## String
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/corki1337/leetcode_/tree/master/0036-valid-sudoku) |
 | [0898-transpose-matrix](https://github.com/corki1337/leetcode_/tree/master/0898-transpose-matrix) |
 ## Recursion
 |  |
