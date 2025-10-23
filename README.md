@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/corki1337/leetcode_/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [1448-maximum-69-number](https://github.com/corki1337/leetcode_/tree/master/1448-maximum-69-number) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/corki1337/leetcode_/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/corki1337/leetcode_/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/corki1337/leetcode_/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/corki1337/leetcode_/tree/master/0742-to-lower-case) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/corki1337/leetcode_/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/corki1337/leetcode_/tree/master/0657-robot-return-to-origin) |
 | [0898-transpose-matrix](https://github.com/corki1337/leetcode_/tree/master/0898-transpose-matrix) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/corki1337/leetcode_/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/corki1337/leetcode_/tree/master/0020-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/corki1337/leetcode_/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/corki1337/leetcode_/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
