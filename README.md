@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/corki1337/leetcode_/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/corki1337/leetcode_/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/corki1337/leetcode_/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/corki1337/leetcode_/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/corki1337/leetcode_/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/corki1337/leetcode_/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/corki1337/leetcode_/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
