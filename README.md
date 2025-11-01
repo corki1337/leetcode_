@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/corki1337/leetcode_/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/corki1337/leetcode_/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/corki1337/leetcode_/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/corki1337/leetcode_/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/corki1337/leetcode_/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/corki1337/leetcode_/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/corki1337/leetcode_/tree/master/3830-find-closest-person) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/corki1337/leetcode_/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/corki1337/leetcode_/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2350-find-closest-number-to-zero](https://github.com/corki1337/leetcode_/tree/master/2350-find-closest-number-to-zero) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/corki1337/leetcode_/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/corki1337/leetcode_/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/corki1337/leetcode_/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2169-simple-bank-system](https://github.com/corki1337/leetcode_/tree/master/2169-simple-bank-system) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/corki1337/leetcode_/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
