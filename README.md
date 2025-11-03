@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/corki1337/leetcode_/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/corki1337/leetcode_/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/corki1337/leetcode_/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3396-valid-word](https://github.com/corki1337/leetcode_/tree/master/3396-valid-word) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/corki1337/leetcode_/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
