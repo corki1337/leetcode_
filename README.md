@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/corki1337/leetcode_/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/corki1337/leetcode_/tree/master/0898-transpose-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/corki1337/leetcode_/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/corki1337/leetcode_/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/corki1337/leetcode_/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/corki1337/leetcode_/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2350-find-closest-number-to-zero](https://github.com/corki1337/leetcode_/tree/master/2350-find-closest-number-to-zero) |
