@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/corki1337/leetcode_/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/corki1337/leetcode_/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/corki1337/leetcode_/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/corki1337/leetcode_/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/corki1337/leetcode_/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/corki1337/leetcode_/tree/master/0605-can-place-flowers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/corki1337/leetcode_/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/corki1337/leetcode_/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/corki1337/leetcode_/tree/master/3676-smallest-number-with-all-set-bits) |
