@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/corki1337/leetcode_/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/corki1337/leetcode_/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
+| [1260-day-of-the-year](https://github.com/corki1337/leetcode_/tree/master/1260-day-of-the-year) |
 | [1448-maximum-69-number](https://github.com/corki1337/leetcode_/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/corki1337/leetcode_/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/corki1337/leetcode_/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/corki1337/leetcode_/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/corki1337/leetcode_/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/corki1337/leetcode_/tree/master/0742-to-lower-case) |
+| [1260-day-of-the-year](https://github.com/corki1337/leetcode_/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/corki1337/leetcode_/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/corki1337/leetcode_/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/corki1337/leetcode_/tree/master/2137-final-value-of-variable-after-performing-operations) |
