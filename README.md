@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/corki1337/leetcode_/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/corki1337/leetcode_/tree/master/0441-arranging-coins) |
+| [1115-valid-boomerang](https://github.com/corki1337/leetcode_/tree/master/1115-valid-boomerang) |
 | [1260-day-of-the-year](https://github.com/corki1337/leetcode_/tree/master/1260-day-of-the-year) |
 | [1448-maximum-69-number](https://github.com/corki1337/leetcode_/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/corki1337/leetcode_/tree/master/1642-water-bottles) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/corki1337/leetcode_/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/corki1337/leetcode_/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/corki1337/leetcode_/tree/master/0898-transpose-matrix) |
+| [1115-valid-boomerang](https://github.com/corki1337/leetcode_/tree/master/1115-valid-boomerang) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/corki1337/leetcode_/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/corki1337/leetcode_/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/corki1337/leetcode_/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/corki1337/leetcode_/tree/master/0812-rotate-string) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/corki1337/leetcode_/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
