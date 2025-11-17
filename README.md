@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/corki1337/leetcode_/tree/master/0898-transpose-matrix) |
 | [1115-valid-boomerang](https://github.com/corki1337/leetcode_/tree/master/1115-valid-boomerang) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/corki1337/leetcode_/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/corki1337/leetcode_/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/corki1337/leetcode_/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/corki1337/leetcode_/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/corki1337/leetcode_/tree/master/2169-simple-bank-system) |
