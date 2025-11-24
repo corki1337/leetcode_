@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/corki1337/leetcode_/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0890-lemonade-change](https://github.com/corki1337/leetcode_/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/corki1337/leetcode_/tree/master/0898-transpose-matrix) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/corki1337/leetcode_/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1115-valid-boomerang](https://github.com/corki1337/leetcode_/tree/master/1115-valid-boomerang) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/corki1337/leetcode_/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/corki1337/leetcode_/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/corki1337/leetcode_/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [0899-binary-gap](https://github.com/corki1337/leetcode_/tree/master/0899-binary-gap) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/corki1337/leetcode_/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/corki1337/leetcode_/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/corki1337/leetcode_/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
