@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/corki1337/leetcode_/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/corki1337/leetcode_/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/corki1337/leetcode_/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/corki1337/leetcode_/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/corki1337/leetcode_/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/corki1337/leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/corki1337/leetcode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/corki1337/leetcode_/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/corki1337/leetcode_/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/corki1337/leetcode_/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/corki1337/leetcode_/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/corki1337/leetcode_/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/corki1337/leetcode_/tree/master/0742-to-lower-case) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/corki1337/leetcode_/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/corki1337/leetcode_/tree/master/1051-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/corki1337/leetcode_/tree/master/1262-greatest-sum-divisible-by-three) |
