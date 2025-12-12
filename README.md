@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/corki1337/leetcode_/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/corki1337/leetcode_/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/corki1337/leetcode_/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/corki1337/leetcode_/tree/master/0013-roman-to-integer) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/corki1337/leetcode_/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/corki1337/leetcode_/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/corki1337/leetcode_/tree/master/1925-count-square-sum-triples) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/corki1337/leetcode_/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
