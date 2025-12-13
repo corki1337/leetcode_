@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/corki1337/leetcode_/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/corki1337/leetcode_/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/corki1337/leetcode_/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/corki1337/leetcode_/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/corki1337/leetcode_/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/corki1337/leetcode_/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/corki1337/leetcode_/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/corki1337/leetcode_/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/corki1337/leetcode_/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/corki1337/leetcode_/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/corki1337/leetcode_/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3396-valid-word](https://github.com/corki1337/leetcode_/tree/master/3396-valid-word) |
+| [3606-coupon-code-validator](https://github.com/corki1337/leetcode_/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/corki1337/leetcode_/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/corki1337/leetcode_/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/corki1337/leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/corki1337/leetcode_/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3606-coupon-code-validator](https://github.com/corki1337/leetcode_/tree/master/3606-coupon-code-validator) |
 ## Interactive
 |  |
 | ------- |
