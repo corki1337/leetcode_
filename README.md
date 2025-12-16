@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/corki1337/leetcode_/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/corki1337/leetcode_/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/corki1337/leetcode_/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/corki1337/leetcode_/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/corki1337/leetcode_/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/corki1337/leetcode_/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/corki1337/leetcode_/tree/master/0069-sqrtx) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/corki1337/leetcode_/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/corki1337/leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/corki1337/leetcode_/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/corki1337/leetcode_/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/corki1337/leetcode_/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/corki1337/leetcode_/tree/master/0202-happy-number) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/corki1337/leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/corki1337/leetcode_/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/corki1337/leetcode_/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/corki1337/leetcode_/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/corki1337/leetcode_/tree/master/0020-valid-parentheses) |
