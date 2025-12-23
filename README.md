@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/corki1337/leetcode_/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/corki1337/leetcode_/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/corki1337/leetcode_/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/corki1337/leetcode_/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/corki1337/leetcode_/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/corki1337/leetcode_/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/corki1337/leetcode_/tree/master/0118-pascals-triangle) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/corki1337/leetcode_/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/corki1337/leetcode_/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/corki1337/leetcode_/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/corki1337/leetcode_/tree/master/0412-fizz-buzz) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/corki1337/leetcode_/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/corki1337/leetcode_/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/corki1337/leetcode_/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/corki1337/leetcode_/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/corki1337/leetcode_/tree/master/0898-transpose-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/corki1337/leetcode_/tree/master/2244-number-of-laser-beams-in-a-bank) |
