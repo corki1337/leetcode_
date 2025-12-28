@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/corki1337/leetcode_/tree/master/1115-valid-boomerang) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/corki1337/leetcode_/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/corki1337/leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/corki1337/leetcode_/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/corki1337/leetcode_/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/corki1337/leetcode_/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1732-find-the-highest-altitude](https://github.com/corki1337/leetcode_/tree/master/1732-find-the-highest-altitude) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/corki1337/leetcode_/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/corki1337/leetcode_/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/corki1337/leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/corki1337/leetcode_/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/corki1337/leetcode_/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/corki1337/leetcode_/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/corki1337/leetcode_/tree/master/0898-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/corki1337/leetcode_/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/corki1337/leetcode_/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Recursion
 |  |
