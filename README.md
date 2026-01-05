@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/corki1337/leetcode_/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/corki1337/leetcode_/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1732-find-the-highest-altitude](https://github.com/corki1337/leetcode_/tree/master/1732-find-the-highest-altitude) |
+| [1975-maximum-matrix-sum](https://github.com/corki1337/leetcode_/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/corki1337/leetcode_/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/corki1337/leetcode_/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/corki1337/leetcode_/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/corki1337/leetcode_/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/corki1337/leetcode_/tree/master/1448-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/corki1337/leetcode_/tree/master/1903-largest-odd-number-in-string) |
+| [1975-maximum-matrix-sum](https://github.com/corki1337/leetcode_/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/corki1337/leetcode_/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/corki1337/leetcode_/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Simulation
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/corki1337/leetcode_/tree/master/0840-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/corki1337/leetcode_/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/corki1337/leetcode_/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/corki1337/leetcode_/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/corki1337/leetcode_/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Recursion
 |  |
