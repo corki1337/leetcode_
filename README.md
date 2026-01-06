@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/corki1337/leetcode_/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/corki1337/leetcode_/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/corki1337/leetcode_/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/corki1337/leetcode_/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/corki1337/leetcode_/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/corki1337/leetcode_/tree/master/0728-self-dividing-numbers) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/corki1337/leetcode_/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/corki1337/leetcode_/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/corki1337/leetcode_/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
