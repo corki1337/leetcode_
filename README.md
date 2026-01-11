@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/corki1337/leetcode_/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/corki1337/leetcode_/tree/master/0326-power-of-three) |
+| [0357-count-numbers-with-unique-digits](https://github.com/corki1337/leetcode_/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/corki1337/leetcode_/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/corki1337/leetcode_/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/corki1337/leetcode_/tree/master/0728-self-dividing-numbers) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/corki1337/leetcode_/tree/master/0118-pascals-triangle) |
+| [0357-count-numbers-with-unique-digits](https://github.com/corki1337/leetcode_/tree/master/0357-count-numbers-with-unique-digits) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/corki1337/leetcode_/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/corki1337/leetcode_/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Stack
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/corki1337/leetcode_/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/corki1337/leetcode_/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
