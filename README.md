@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/corki1337/leetcode_/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/corki1337/leetcode_/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/corki1337/leetcode_/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3453-separate-squares-i](https://github.com/corki1337/leetcode_/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/corki1337/leetcode_/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/corki1337/leetcode_/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/corki1337/leetcode_/tree/master/3606-coupon-code-validator) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/corki1337/leetcode_/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/corki1337/leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/corki1337/leetcode_/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3453-separate-squares-i](https://github.com/corki1337/leetcode_/tree/master/3453-separate-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
