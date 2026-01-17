@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/corki1337/leetcode_/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/corki1337/leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/corki1337/leetcode_/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/corki1337/leetcode_/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/corki1337/leetcode_/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/corki1337/leetcode_/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/corki1337/leetcode_/tree/master/0682-baseball-game) |
