@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/corki1337/leetcode_/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/corki1337/leetcode_/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/corki1337/leetcode_/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/corki1337/leetcode_/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/corki1337/leetcode_/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/corki1337/leetcode_/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/corki1337/leetcode_/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/corki1337/leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/corki1337/leetcode_/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/corki1337/leetcode_/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/corki1337/leetcode_/tree/master/0500-keyboard-row) |
 | [0840-magic-squares-in-grid](https://github.com/corki1337/leetcode_/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/corki1337/leetcode_/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/corki1337/leetcode_/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/corki1337/leetcode_/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/corki1337/leetcode_/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/corki1337/leetcode_/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/corki1337/leetcode_/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/corki1337/leetcode_/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/corki1337/leetcode_/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/corki1337/leetcode_/tree/master/0812-rotate-string) |
