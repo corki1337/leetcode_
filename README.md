@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/corki1337/leetcode_/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/corki1337/leetcode_/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/corki1337/leetcode_/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/corki1337/leetcode_/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/corki1337/leetcode_/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/corki1337/leetcode_/tree/master/0840-magic-squares-in-grid) |
 | [1115-valid-boomerang](https://github.com/corki1337/leetcode_/tree/master/1115-valid-boomerang) |
