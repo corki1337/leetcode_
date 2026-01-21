@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/corki1337/leetcode_/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/corki1337/leetcode_/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/corki1337/leetcode_/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/corki1337/leetcode_/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/corki1337/leetcode_/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/corki1337/leetcode_/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/corki1337/leetcode_/tree/master/0728-self-dividing-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/corki1337/leetcode_/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/corki1337/leetcode_/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/corki1337/leetcode_/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/corki1337/leetcode_/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/corki1337/leetcode_/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/corki1337/leetcode_/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/corki1337/leetcode_/tree/master/0742-to-lower-case) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/corki1337/leetcode_/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/corki1337/leetcode_/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/corki1337/leetcode_/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/corki1337/leetcode_/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/corki1337/leetcode_/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/corki1337/leetcode_/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/corki1337/leetcode_/tree/master/0682-baseball-game) |
