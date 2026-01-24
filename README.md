@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/corki1337/leetcode_/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/corki1337/leetcode_/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1732-find-the-highest-altitude](https://github.com/corki1337/leetcode_/tree/master/1732-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/corki1337/leetcode_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/corki1337/leetcode_/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/corki1337/leetcode_/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/corki1337/leetcode_/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/corki1337/leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/corki1337/leetcode_/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/corki1337/leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/corki1337/leetcode_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/corki1337/leetcode_/tree/master/1051-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/corki1337/leetcode_/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/corki1337/leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/corki1337/leetcode_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/corki1337/leetcode_/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/corki1337/leetcode_/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/corki1337/leetcode_/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/corki1337/leetcode_/tree/master/0890-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/corki1337/leetcode_/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/corki1337/leetcode_/tree/master/1448-maximum-69-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/corki1337/leetcode_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/corki1337/leetcode_/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/corki1337/leetcode_/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/corki1337/leetcode_/tree/master/3074-apple-redistribution-into-boxes) |
