@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/corki1337/leetcode_/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/corki1337/leetcode_/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/corki1337/leetcode_/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/corki1337/leetcode_/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/corki1337/leetcode_/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/corki1337/leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/corki1337/leetcode_/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/corki1337/leetcode_/tree/master/0374-guess-number-higher-or-lower) |
 ## Greedy
 |  |
 | ------- |
