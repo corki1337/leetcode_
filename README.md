@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/corki1337/leetcode_/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/corki1337/leetcode_/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/corki1337/leetcode_/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/corki1337/leetcode_/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/corki1337/leetcode_/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/corki1337/leetcode_/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/corki1337/leetcode_/tree/master/0682-baseball-game) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/corki1337/leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/corki1337/leetcode_/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/corki1337/leetcode_/tree/master/0506-relative-ranks) |
 | [1051-height-checker](https://github.com/corki1337/leetcode_/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/corki1337/leetcode_/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/corki1337/leetcode_/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/corki1337/leetcode_/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/corki1337/leetcode_/tree/master/1046-last-stone-weight) |
 ## Trie
 |  |
