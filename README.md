@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/corki1337/leetcode_/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/corki1337/leetcode_/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/corki1337/leetcode_/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/corki1337/leetcode_/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/corki1337/leetcode_/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/corki1337/leetcode_/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/corki1337/leetcode_/tree/master/0231-power-of-two) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/corki1337/leetcode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/corki1337/leetcode_/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/corki1337/leetcode_/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/corki1337/leetcode_/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/corki1337/leetcode_/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/corki1337/leetcode_/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/corki1337/leetcode_/tree/master/0299-bulls-and-cows) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/corki1337/leetcode_/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/corki1337/leetcode_/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/corki1337/leetcode_/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/corki1337/leetcode_/tree/master/0231-power-of-two) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/corki1337/leetcode_/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/corki1337/leetcode_/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/corki1337/leetcode_/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/corki1337/leetcode_/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/corki1337/leetcode_/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/corki1337/leetcode_/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/corki1337/leetcode_/tree/master/0415-add-strings) |
