@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/corki1337/leetcode_/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/corki1337/leetcode_/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/corki1337/leetcode_/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/corki1337/leetcode_/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/corki1337/leetcode_/tree/master/0840-magic-squares-in-grid) |
 | [1115-valid-boomerang](https://github.com/corki1337/leetcode_/tree/master/1115-valid-boomerang) |
 | [1260-day-of-the-year](https://github.com/corki1337/leetcode_/tree/master/1260-day-of-the-year) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/corki1337/leetcode_/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/corki1337/leetcode_/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/corki1337/leetcode_/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/corki1337/leetcode_/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/corki1337/leetcode_/tree/master/0899-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/corki1337/leetcode_/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/corki1337/leetcode_/tree/master/2059-unique-length-3-palindromic-subsequences) |
