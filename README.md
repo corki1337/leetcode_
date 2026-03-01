@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/corki1337/leetcode_/tree/master/1260-day-of-the-year) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/corki1337/leetcode_/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/corki1337/leetcode_/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/corki1337/leetcode_/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/corki1337/leetcode_/tree/master/1903-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/corki1337/leetcode_/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/corki1337/leetcode_/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/corki1337/leetcode_/tree/master/0890-lemonade-change) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/corki1337/leetcode_/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/corki1337/leetcode_/tree/master/1448-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/corki1337/leetcode_/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/corki1337/leetcode_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/corki1337/leetcode_/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/corki1337/leetcode_/tree/master/1975-maximum-matrix-sum) |
