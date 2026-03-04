@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/corki1337/leetcode_/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/corki1337/leetcode_/tree/master/1512-number-of-good-pairs) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/corki1337/leetcode_/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/corki1337/leetcode_/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/corki1337/leetcode_/tree/master/1732-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/corki1337/leetcode_/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/corki1337/leetcode_/tree/master/1895-largest-magic-square) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/corki1337/leetcode_/tree/master/0840-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/corki1337/leetcode_/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/corki1337/leetcode_/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/corki1337/leetcode_/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/corki1337/leetcode_/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/corki1337/leetcode_/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/corki1337/leetcode_/tree/master/2244-number-of-laser-beams-in-a-bank) |
