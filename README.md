@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/corki1337/leetcode_/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/corki1337/leetcode_/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/corki1337/leetcode_/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/corki1337/leetcode_/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/corki1337/leetcode_/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/corki1337/leetcode_/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/corki1337/leetcode_/tree/master/0169-majority-element) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/corki1337/leetcode_/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/corki1337/leetcode_/tree/master/0119-pascals-triangle-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/corki1337/leetcode_/tree/master/0357-count-numbers-with-unique-digits) |
 | [0413-arithmetic-slices](https://github.com/corki1337/leetcode_/tree/master/0413-arithmetic-slices) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/corki1337/leetcode_/tree/master/1262-greatest-sum-divisible-by-three) |
