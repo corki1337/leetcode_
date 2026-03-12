@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/corki1337/leetcode_/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/corki1337/leetcode_/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/corki1337/leetcode_/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/corki1337/leetcode_/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/corki1337/leetcode_/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/corki1337/leetcode_/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/corki1337/leetcode_/tree/master/0069-sqrtx) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/corki1337/leetcode_/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/corki1337/leetcode_/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/corki1337/leetcode_/tree/master/0119-pascals-triangle-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/corki1337/leetcode_/tree/master/0357-count-numbers-with-unique-digits) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/corki1337/leetcode_/tree/master/0062-unique-paths) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/corki1337/leetcode_/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
