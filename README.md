@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/corki1337/leetcode_/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/corki1337/leetcode_/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/corki1337/leetcode_/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/corki1337/leetcode_/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/corki1337/leetcode_/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/corki1337/leetcode_/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/corki1337/leetcode_/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/corki1337/leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/corki1337/leetcode_/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/corki1337/leetcode_/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/corki1337/leetcode_/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/corki1337/leetcode_/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/corki1337/leetcode_/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/corki1337/leetcode_/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
