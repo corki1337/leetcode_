@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/corki1337/leetcode_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/corki1337/leetcode_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/corki1337/leetcode_/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/corki1337/leetcode_/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/corki1337/leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/corki1337/leetcode_/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/corki1337/leetcode_/tree/master/0414-third-maximum-number) |
@@ -402,10 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/corki1337/leetcode_/tree/master/0303-range-sum-query-immutable) |
 | [2169-simple-bank-system](https://github.com/corki1337/leetcode_/tree/master/2169-simple-bank-system) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/corki1337/leetcode_/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/corki1337/leetcode_/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/corki1337/leetcode_/tree/master/1732-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/corki1337/leetcode_/tree/master/1895-largest-magic-square) |
